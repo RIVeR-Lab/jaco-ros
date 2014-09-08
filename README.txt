@@ -1,3 +1,5 @@
+DO NOT USE!! AERO only version. Unless you know what you are doing, you probably want the wpi_jaco repo.
+
 Jaco ROS driver - Catkin edition
 
 Currently a work in progress, more to be added (Testers, model, Moveit!, etc)
